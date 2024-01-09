@@ -145,7 +145,7 @@ float measureSurTemp()
 	Serial.print(current_temp);
 	return current_temp;
 }
-
+// Hallo!
 float measureObjectTemp()
 {
 	unsigned char i=0;  
